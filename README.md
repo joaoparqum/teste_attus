@@ -1,6 +1,6 @@
 <h1>Teste Desenvolvedor Back-end Attus</h1>
 
-<p>Teste feito pelo Desenvolvedor João Paulo, <br> Respeitando os pilares da Programação Orientada a Objetos, SOLID e Design Patterns</p>
+<p>Teste feito pelo Desenvolvedor João Paulo, <br> API RESTful respeitando os pilares da Programação Orientada a Objetos, SOLID e Design Patterns</p>
 
 <h2>Endpoints</h2>
 
